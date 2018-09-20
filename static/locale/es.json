@@ -1,0 +1,22 @@
+{
+  "app.pageLoader.loading": "Cargando",
+  "app.componentAddForm.group": "Grupo",
+  "app.componentAddForm.group.placeholder": "Grupo de Proyecto",
+  "app.componentAddForm.name": "Nombre",
+  "app.componentAddForm.name.placeholder": "Nombre del componente / repositorio",
+  "app.componentAddForm.type": "Tipo",
+  "app.componentAddForm.cancel": "Cancelar",
+  "app.componentAddForm.download": "Descargar",
+  "app.componentAddForm.header": "Detalles del proyecto",
+  "app.componentAddForm.subheader": "Complete el formulario abajo para finalizar la creación de su aplicación",
+  "app.componentAddForm.download.success.message.header": "ES:Your download should start shortly",
+  "app.componentAddForm.download.failure.message.header": "ES:Your download failed to start",
+  "app.home.header" : "Seleccione un modelo de proyecto",
+  "app.home.subheader" : "ES:Start a new project using a project template.",
+  "app.home.templates.java.spring.boot.description" : "Modelo de proyecto para aplicaciones Spring Boot",
+  "app.home.templates.java.spring.boot2.description": "Modelo de proyecto para aplicaciones Spring Boot 2",
+  "app.home.templates.java.library.description" : "Modelo de proyecto para aplicaciones Java",
+  "app.home.templates.nodejs.description": "ES:Template for backend Node.js applications",
+  "app.home.templates.react.description": "ES:Template for static React applications",
+  "app.attributions.message": "ES:React Logo by <a href='https://www.facebook.com/'>Facebook</a> / <a href='https://creativecommons.org/licenses/by-sa/1.0/legalcode'>CC BY-SA 1.0</a>, <a href='https://commons.wikimedia.org/wiki/File:React-icon.svg'>via Wikimedia Commons</a>"
+}
