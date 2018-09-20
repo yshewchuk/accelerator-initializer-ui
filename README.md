@@ -1,30 +1,53 @@
 # Accelerator Initializer UI
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The code contained in this repository represents the UI component of the Accelerator Initializer, a service that generates starter projects that seamlessly integrate with
+the Accelerator Pipeline.
 
-### `npm start`
+Open source technologies used include React and Redux.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:8080) to view it in the browser.
+## Installation
+Make sure Node.js 8.x or higher in installed (with NPM 5.x or higher). Then run:
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+```
+npm install
+```
 
-### `npm test`
+## Testing
 
-### `npm run build`
+Run tests by running:
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+npm test
+```
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Building for Production
 
-## Node Version
+```
+npm run build
+```
 
-Consult with [https://www.codementor.io/mercurial/how-to-install-node-js-on-macos-sierra-mphz41ekk](https://www.codementor.io/mercurial/how-to-install-node-js-on-macos-sierra-mphz41ekk)
-on instruction to use the correct node version.
+## Contributing
 
- 
+Scotiabank is committed to enriching the developer community through open source collaboration. We’ve just begun this exciting journey with all of you! At present, we’re only accepting contributions from individuals with whom we have a prior agreement. Stay tuned for more updates from us!
+
+### Code Submission Guide
+
+1. Fork this repository.
+2. Create your feature branch.
+3. Commit your changes.
+4. Push to the branch.
+5. Create a new Pull Request.
+
+### Reporting a Bug
+
+Create an issue in the Issue tab and mark it with "**bug**" label.
+
+### Making a Feature Request
+
+Create an issue in the Issue tab and mark it with "**enhancement**" label.
+
+## Project Roadmap
+
+Currently project types are hardcoded. In the near future, this will be changed to be based on the project types the Accelerator Initializer API supports.
