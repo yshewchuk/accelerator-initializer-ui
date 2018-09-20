@@ -3,9 +3,9 @@
 ## Description
 
 The code contained in this repository represents the UI component of the Accelerator Initializer, a service that generates starter projects that seamlessly integrate with
-the Accelerator Pipeline. 
+the Accelerator Pipeline.
 
-Open source technologies used include React and Redux. 
+Open source technologies used include React and Redux.
 
 ## Installation
 Make sure Node.js 8.x or higher in installed (with NPM 5.x or higher). Then run:

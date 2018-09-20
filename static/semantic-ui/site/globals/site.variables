@@ -1,0 +1,6 @@
+@headerFont        : 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+@importGoogleFonts : true;
+@googleFontName    : 'Lato';
+@googleFontFamily  : '@{googleFontName}';
