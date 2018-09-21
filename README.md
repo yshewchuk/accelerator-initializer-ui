@@ -28,9 +28,17 @@ npm test
 npm run build
 ```
 
+## Feedback and Questions
+
+Join us on [Slack](https://plato-open-source.slack.com/) by [requesting an invite](https://plato-open-source-slack-invite.herokuapp.com/)
+
 ## Contributing
 
 Scotiabank is committed to enriching the developer community through open source collaboration. We’ve just begun this exciting journey with all of you! At present, we’re only accepting contributions from individuals with whom we have a prior agreement. Stay tuned for more updates from us!
+
+### Code of Conduct
+
+Please read and follow our [Code of Conduct](https://github.com/scotiabank/accelerator-initializer-ui/blob/master/CODE_OF_CONDUCT.md).
 
 ### Code Submission Guide
 
