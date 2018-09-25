@@ -2,10 +2,9 @@
 
 ## Description
 
-The code contained in this repository represents the UI component of the Accelerator Initializer, a service that generates starter projects that seamlessly integrate with
-the Accelerator Pipeline.
+The Accelerator Initializer UI is a rich user interface for the generation of new projects from standardized templates (provided by the accelerator-initializer API). It is intended to be the starting point for developers when creating a new project and onboarding with the Accelerator Pipeline.
 
-Open source technologies used include React and Redux.
+The application is built using React and Redux, and is intended to be hosted as a static application executed by the client-side browser.
 
 ## Installation
 Make sure Node.js 8.x or higher in installed (with NPM 5.x or higher). Then run:
