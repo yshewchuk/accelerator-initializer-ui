@@ -31,6 +31,8 @@ npm run build
 
 Join us on [Slack](https://plato-open-source.slack.com/) by [requesting an invite](https://plato-open-source-slack-invite.herokuapp.com/)
 
+## Contributing
+
 ### Code of Conduct
 
 Please read and follow our [Code of Conduct](https://github.com/scotiabank/accelerator-initializer-ui/blob/master/CODE_OF_CONDUCT.md).
