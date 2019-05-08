@@ -1,5 +1,5 @@
 {
-  "some-change": "test fdsa",
+  "some-change": "test fdsa fdsa",
     "presets": ["env", "react"],
     "plugins": ["transform-object-rest-spread"],
     "env": {
